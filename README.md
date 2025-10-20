@@ -1,2 +1,2 @@
 # beyburd-real-estate-app
-deal analyzer
+Professional real estate investment calculator
